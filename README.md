@@ -1,2 +1,3 @@
-# -AAI614_Zeidan
-# Some changes on the same file
+# AAI614_Zeidan
+# Course AA614 Data Science &its Applications
+
